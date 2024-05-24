@@ -1,0 +1,14 @@
+C:\Users\C1\RiderProjects\ToDoList\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\C1\RiderProjects\ToDoList\Service\bin\Debug\net8.0\Service.dll
+C:\Users\C1\RiderProjects\ToDoList\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\C1\RiderProjects\ToDoList\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1\RiderProjects\ToDoList\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\C1\RiderProjects\ToDoList\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\C1\RiderProjects\ToDoList\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\C1\RiderProjects\ToDoList\Service\obj\Debug\net8.0\Service.dll
+C:\Users\C1\RiderProjects\ToDoList\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\C1\RiderProjects\ToDoList\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\C1\RiderProjects\ToDoList\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\C1\RiderProjects\ToDoList\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\C1\RiderProjects\ToDoList\Service\bin\Debug\net8.0\Service.runtimeconfig.json
+C:\Users\C1\RiderProjects\ToDoList\Service\obj\Debug\net8.0\Service.genruntimeconfig.cache
